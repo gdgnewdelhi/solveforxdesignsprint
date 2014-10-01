@@ -65,3 +65,25 @@ Solutions
 <br>[Surabhi Gupta](mailto:surabhigupta2442@gmail.com)
 <br>*Other teammembers not named, feel free to create an issue for us to add you to it*
 
+#####Haptik
+* Voice/Text/Video messaging app between patient and insurance agency that helps them find nearest affiliated hospitals, support groups, bring in donations and get agents out of the way with patient dealing directly with insurer.
+<br>Solutions by
+<br>[Girish Garg](mailto:girishgargdce@gmail.com)
+<br>[Rahul B](mailto:rhlbhrgv@gmail.com)
+<br>[Palash](mailto:palash987@gmail.com)
+<br>Rohan
+
+* App that links insurance companies to the hospitals for quicker approval of claims using unique patient IDs.
+<br>Solutions by
+<br>[Niharika Gujela](http://in.linkedin.com/pub/niharika-gujela/75/a72/869)
+<br>[Soumya Sinha](http://in.linkedin.com/pub/soumya-sinha/91/700/143/)
+<br>[Sahib Sethi](http://in.linkedin.com/pub/sahib-sethi/9a/810/936)
+<br>[Chayan Gulati](http://in.linkedin.com/pub/chayan-gulati/9b/255/8a4)
+<br>[Kartic Rakhri](http://in.linkedin.com/pub/kartic-rakhra/51/682/444)
+
+* A centralized portal that keeps track of amount of insurance required, time frame provided by patient, database for patients on basis of previous customer services by Insurance companies, fund transfers via secure gateways amd alternative, cheaper hospital options.
+<br>Solutions by
+<br>[Manoj Pandey](mailto:manojpandey1996@gmail.com)
+<br>*Other teammembers not named, feel free to create an issue for us to add you to it*
+
+
