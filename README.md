@@ -84,6 +84,8 @@ Solutions
 * A centralized portal that keeps track of amount of insurance required, time frame provided by patient, database for patients on basis of previous customer services by Insurance companies, fund transfers via secure gateways amd alternative, cheaper hospital options.
 <br>Solutions by
 <br>[Manoj Pandey](mailto:manojpandey1996@gmail.com)
-<br>*Other teammembers not named, feel free to create an issue for us to add you to it*
+<br>[Shashi Kumar](http://shashisp.github.io/)
+<br>[Gitansh Anand](mailto:gitansh92@gmail.com)
+<br>[Aastha Malhotra](mailto:aasthamalhotra.1111@gmail.com) 
 
 
